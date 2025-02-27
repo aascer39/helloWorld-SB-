@@ -17,4 +17,4 @@
 #### 网页对应端口的对应映射成功打印出"Hello World！"。
 
 ### 托管代码
-#### 将代码托管到Gitee上，完成代码的管理（[详细内容见此](https://github.com/aascer39/helloWorld-SB-/tree/main/use-spring-boot-print-hello-world01/demo)）。
+#### 将代码托管到GitHub上，完成代码的管理（[详细内容见此](https://github.com/aascer39/helloWorld-SB-/tree/main/use-spring-boot-print-hello-world01/demo)）。
